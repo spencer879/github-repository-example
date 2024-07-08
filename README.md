@@ -1,3 +1,25 @@
+# Forking Guide
+
+1. Fork this repository: https://github.com/new?template_name=github-repository-example&template_owner=spencer879
+  
+2. Update the email in `CODE_OF_CONDUCT.md`
+
+    ```diff
+      ## Enforcement
+    
+      Instances of abusive, harassing, or otherwise unacceptable behavior may be
+    + reported by contacting the project team at <contact@email.com>. All
+      complaints will be reviewed and investigated and will result in a response that
+    ```
+3. Update the name in `LICENSE`
+
+    ```diff
+      MIT License
+
+    + Copyright (c) 2024 <OWNER_NAME_HERE>
+    ```
+
+
 # Project Title
 
 [Include a brief description or overview of your project. Highlight its purpose and key features.]
@@ -35,7 +57,7 @@
 
 ## Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./docs/architecture-diagram.png)
 
 ## Contributing
 
